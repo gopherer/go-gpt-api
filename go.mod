@@ -2,4 +2,4 @@ module gpt-go-api
 
 go 1.20
 
-require github.com/sashabaranov/go-openai v1.14.1
+require golang.org/x/net v0.14.0
